@@ -1,0 +1,10 @@
+pyaudio~=0.2.14
+wave
+keyboard~=0.13.5
+openai-whisper
+pyserial
+RPi.GPIO
+whisper~=1.1.10
+sounddevice~=0.4.6
+serial~=0.0.97
+openai~=1.25.1
